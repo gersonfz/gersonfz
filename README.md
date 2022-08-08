@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there!
+My name is **Gerson Fernandez**. I'm a venezuelan developer, actually living in Argentina.
 
-<!--
-**gersonfz/gersonfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Constantly increasing the knowledge of FullStack, with React, Javascript and currently with Backend. Studing in CoderHouse.
 
-Here are some ideas to get you started:
+Actually, my page are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Web development:
+* https://gersonfz.github.io/acerometalventuy_3.0/
+
+## Javascript: 
+* https://gersonfz.github.io/animart_1.0/
+
+## React Js:
+* https://gersonfz.github.io/coffestore/
+
+`This page initial in 404 not found, but you click 'Home' and using page normally`
