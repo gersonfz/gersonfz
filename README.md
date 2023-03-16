@@ -12,6 +12,4 @@ Actually, my page are:
 * https://gersonfz.github.io/animart_1.0/
 
 ## React Js:
-* https://gersonfz.github.io/coffestore/
-
-`This page initial in 404 not found, but you click 'Home' and using page normally`
+* https://coffestore-bal3i8tmq-gersonfz.vercel.app/
